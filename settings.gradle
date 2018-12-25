@@ -1,6 +1,6 @@
-rootProject.name = 'axon-sample'
+rootProject.name = 'lectify'
 
 include 'shared-lib'
 include 'command-service'
 include 'query-service'
-
+include 'api-service'

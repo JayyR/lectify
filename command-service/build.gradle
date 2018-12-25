@@ -28,6 +28,7 @@ dependencies {
     compile('org.axonframework:axon-spring-boot-starter:4.0')
     runtime('com.h2database:h2')
     compile('org.projectlombok:lombok')
+    compile('org.modelmapper:modelmapper:1.1.1')
 
     compile project(':shared-lib')
     testCompile('org.springframework.boot:spring-boot-starter-test')

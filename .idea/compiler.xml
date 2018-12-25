@@ -5,8 +5,8 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="axon-sample_main" target="1.8" />
-      <module name="axon-sample_test" target="1.8" />
+      <module name="api-service_main" target="1.8" />
+      <module name="api-service_test" target="1.8" />
       <module name="command-service_main" target="1.8" />
       <module name="command-service_test" target="1.8" />
       <module name="query-service_main" target="1.8" />
