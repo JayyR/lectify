@@ -3,3 +3,6 @@ server:
 spring:
   application:
     name: api-service
+  http:
+    converters:
+      preferred-json-mapper: gson

@@ -27,6 +27,8 @@ dependencies {
     compile('org.axonframework:axon-spring-boot-starter:4.0')
     compile('org.projectlombok:lombok')
     compile('org.modelmapper:modelmapper:1.1.1')
+    compile('com.google.code.gson:gson')
+    compile('com.google.apis:google-api-services-books:v1-rev104-1.25.0')
 
     compile project(':shared-lib')
     testCompile('org.springframework.boot:spring-boot-starter-test')
